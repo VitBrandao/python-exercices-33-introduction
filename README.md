@@ -8,6 +8,8 @@ It contains the very basic learning such as:
 - Tests with **Pytest**.
 
 I also invite you to check the [Project Job Insights](https://github.com/VitBrandao/Python-Job-Insights-Project) that I developed by the end of the Block 33. 
+
+
 ---
 :brazil: Esse Repositório contém os exercícios que realizei no Bloco 33 do curso de Desenvolvimento Web da Trybe, durante o Módulo de Ciência da Computação.
 Foram os primeiros aprendizados focados em **Python**, portanto, exercícios básicos envolvendo:
